@@ -1882,11 +1882,11 @@ not all {
 .about_content>.info>img {
     border: 8px solid #87D5C6;
     border-radius: 50%;
-    height: 1550px;
+    height: 240px;
     margin-bottom: 22px;
     margin-top: -110px;
     position: relative;
-    width: 150px;
+    width: 240px;
     z-index: 5;
 }
 
